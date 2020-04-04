@@ -1,105 +1,105 @@
 [[htslib]]
-arch = "aarch64"
-git-tree-sha1 = "732e7c546982b5c046de4ace19e1126287934625"
-libc = "musl"
-os = "linux"
-
-    [[htslib.download]]
-    sha256 = "ea63b1e8053abf72a8e94a6af08ef76e2df605508d38a5d47c52ba7df84dcb9e"
-    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+0/htslib.v1.10.2.aarch64-linux-musl.tar.gz"
-[[htslib]]
-arch = "x86_64"
-git-tree-sha1 = "3efcf698e3bae3378eec3353cab3dce324a4d6c9"
-libc = "musl"
-os = "linux"
-
-    [[htslib.download]]
-    sha256 = "a4038217d097e5ae083050c6ecde0462da2a9bea4c6471159c5eb323845e6d7d"
-    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+0/htslib.v1.10.2.x86_64-linux-musl.tar.gz"
-[[htslib]]
 arch = "i686"
-git-tree-sha1 = "62ddfd47e75b3a03d344ef424512ef94059ce39d"
-libc = "glibc"
+git-tree-sha1 = "d77f1668426475f6ced30a2d7df76be5d28e710f"
+libc = "musl"
 os = "linux"
 
     [[htslib.download]]
-    sha256 = "135431f0c4bd9c807ce95e084aa916d9a478d2da6e9cd0d402a0697a7e65aa26"
-    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+0/htslib.v1.10.2.i686-linux-gnu.tar.gz"
-[[htslib]]
-arch = "armv7l"
-git-tree-sha1 = "06bc4dcfa54566531d72e68f79052fa4fe1eb869"
-libc = "glibc"
-os = "linux"
-
-    [[htslib.download]]
-    sha256 = "840913c8773bd1f016d8459bb9729ee2a467844b599434f7d747bc5e256e3daf"
-    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+0/htslib.v1.10.2.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "610490d10946d41b2edf0fa1083833f24effe9eff45524f3bc5d029107796b9b"
+    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+1/htslib.v1.10.2.i686-linux-musl.tar.gz"
 [[htslib]]
 arch = "aarch64"
-git-tree-sha1 = "df8387c1d64f18d7dad7198af484d5330c2f63d2"
-libc = "glibc"
-os = "linux"
-
-    [[htslib.download]]
-    sha256 = "a9cc5c9aa9c582165a3d7a2641dc8f8d6de343376812ed827ad5c4b538babed8"
-    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+0/htslib.v1.10.2.aarch64-linux-gnu.tar.gz"
-[[htslib]]
-arch = "x86_64"
-git-tree-sha1 = "f8ce067b3d446c943b78f7689ff6341bb7368232"
-libc = "glibc"
-os = "linux"
-
-    [[htslib.download]]
-    sha256 = "e3e212daee2b65e9ef9c3803566572f18ccba57cb5e01c070f1a29b4d83f5a93"
-    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+0/htslib.v1.10.2.x86_64-linux-gnu.tar.gz"
-[[htslib]]
-arch = "powerpc64le"
-git-tree-sha1 = "d8e09475938b77fc805ca1c9551b3c04571d4f7e"
-libc = "glibc"
-os = "linux"
-
-    [[htslib.download]]
-    sha256 = "57c8fe0985e505a9b8b28e41b09e9e45e42086c89af74c72166a49a53ce8eeed"
-    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+0/htslib.v1.10.2.powerpc64le-linux-gnu.tar.gz"
-[[htslib]]
-arch = "x86_64"
-git-tree-sha1 = "aa00b9b8d7475506109b1e2f6d0be497bb320dc8"
-os = "macos"
-
-    [[htslib.download]]
-    sha256 = "89ac1c4a4ab8bc81178b9bfc9bd93a4c93c5098b6e13c3359dba5f02297f48a9"
-    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+0/htslib.v1.10.2.x86_64-apple-darwin14.tar.gz"
-[[htslib]]
-arch = "x86_64"
-git-tree-sha1 = "ede69c4bb0698919917e23ae679dc754653933e5"
-os = "freebsd"
-
-    [[htslib.download]]
-    sha256 = "3148dc0b3bcb46ec9e548ca1e3b5620e317e9d44a75be0c4ec27f0856f0169fb"
-    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+0/htslib.v1.10.2.x86_64-unknown-freebsd11.1.tar.gz"
-[[htslib]]
-arch = "i686"
-git-tree-sha1 = "973e284bec516883b6f141aa53ee0b97831fca08"
+git-tree-sha1 = "9aaa6407f59e14d77319e9de6dc8110ce8aae0a1"
 libc = "musl"
 os = "linux"
 
     [[htslib.download]]
-    sha256 = "c3bb7eb3f20d706902a859851cbec5195ea9c0a8ec4e6055cc3b2a44b6196c7f"
-    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+0/htslib.v1.10.2.i686-linux-musl.tar.gz"
-[[htslib]]
-arch = "armv7l"
-git-tree-sha1 = "9ce22fcf91507eac3de116cce7baabdebd9fee7d"
-libc = "musl"
-os = "linux"
-
-    [[htslib.download]]
-    sha256 = "f514980c98bba256450eb96f7f6dce91648980f774a927eeb550516b678b0ff4"
-    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+0/htslib.v1.10.2.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "1d503dc4dfd88f64b88cac82621ed0af1729c42d55a76129368c2dd62e7342c4"
+    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+1/htslib.v1.10.2.aarch64-linux-musl.tar.gz"
 [[htslib]]
 arch = "x86_64"
-git-tree-sha1 = "f0b3bc4e0bd00f8fcaa23da8084a25a10d0f2970"
+git-tree-sha1 = "29984f2f8782d615a0a67426429b0416e577d8ed"
 os = "windows"
 
     [[htslib.download]]
-    sha256 = "1e32df70eb68b504c9dbb4060dd3d929dd9c0a82285941cbbdc63b63ba5d1def"
-    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+0/htslib.v1.10.2.x86_64-w64-mingw32.tar.gz"
+    sha256 = "2b1ccf38bd5b44152a2052e75d0535fbc370d5303a1d90635384f00325a10147"
+    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+1/htslib.v1.10.2.x86_64-w64-mingw32.tar.gz"
+[[htslib]]
+arch = "armv7l"
+git-tree-sha1 = "31a2b23a6d00ec97a20e0174abcb9ae7768bf634"
+libc = "glibc"
+os = "linux"
+
+    [[htslib.download]]
+    sha256 = "ba4502f93468325843de4ac84498f1ba743d61037520bed6287c668a45e6977c"
+    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+1/htslib.v1.10.2.armv7l-linux-gnueabihf.tar.gz"
+[[htslib]]
+arch = "armv7l"
+git-tree-sha1 = "ba012b85fd77e8b12ac9d87dadbd2e2c898c4e2b"
+libc = "musl"
+os = "linux"
+
+    [[htslib.download]]
+    sha256 = "0a42c5d07a5ecb9afc9c4acabd617fe9dfc78c6da0b92774c89ec4df38007974"
+    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+1/htslib.v1.10.2.armv7l-linux-musleabihf.tar.gz"
+[[htslib]]
+arch = "i686"
+git-tree-sha1 = "fe3f65caea574f722949014f95bf13d19d2304d7"
+libc = "glibc"
+os = "linux"
+
+    [[htslib.download]]
+    sha256 = "88ab3ce53d73e83c845354bd8eec3104c4758e2e4aa7d1f7757d8a90b87a97b8"
+    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+1/htslib.v1.10.2.i686-linux-gnu.tar.gz"
+[[htslib]]
+arch = "x86_64"
+git-tree-sha1 = "32c8d883bfd6125a122e2c4291ce84784e0b0127"
+libc = "glibc"
+os = "linux"
+
+    [[htslib.download]]
+    sha256 = "435275bdbb816bf09fbc58cd58664be4ffbd352b0d7226e3c9c420660d838141"
+    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+1/htslib.v1.10.2.x86_64-linux-gnu.tar.gz"
+[[htslib]]
+arch = "powerpc64le"
+git-tree-sha1 = "9934147ea05c6f4950c7e544b6fc11163760bb90"
+libc = "glibc"
+os = "linux"
+
+    [[htslib.download]]
+    sha256 = "b256d7c99e2bb9ed418590f4168b1081b6b364293d55e3ebb235e844b613c6e7"
+    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+1/htslib.v1.10.2.powerpc64le-linux-gnu.tar.gz"
+[[htslib]]
+arch = "x86_64"
+git-tree-sha1 = "c15a2d35274351394a58444440cf520d4fbdecce"
+os = "macos"
+
+    [[htslib.download]]
+    sha256 = "3448cf8ef4860b35e4e84e2db45898de42a944c85bc18b233668da836db8a2b4"
+    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+1/htslib.v1.10.2.x86_64-apple-darwin14.tar.gz"
+[[htslib]]
+arch = "aarch64"
+git-tree-sha1 = "a48ca75625d006ff7ef443e5a05ba7f8f39eb5e4"
+libc = "glibc"
+os = "linux"
+
+    [[htslib.download]]
+    sha256 = "4364884b49bded9d74262dc9391e92c8ce530f027de74e3236cf4ebb2761e554"
+    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+1/htslib.v1.10.2.aarch64-linux-gnu.tar.gz"
+[[htslib]]
+arch = "x86_64"
+git-tree-sha1 = "fc559f3002092062ecf22dfe4f3b74a2a1b822af"
+os = "freebsd"
+
+    [[htslib.download]]
+    sha256 = "bad05e687b3201d3851e16aac90bee1ae644eb84a37417c9abb4f14284b36dab"
+    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+1/htslib.v1.10.2.x86_64-unknown-freebsd11.1.tar.gz"
+[[htslib]]
+arch = "x86_64"
+git-tree-sha1 = "f921a72a701af87b25ab70667656c873d312c097"
+libc = "musl"
+os = "linux"
+
+    [[htslib.download]]
+    sha256 = "ba1c2c37d93076e78306636fd7392f4767e02c25f336b2844db76f559ce18c33"
+    url = "https://github.com/JuliaBinaryWrappers/htslib_jll.jl/releases/download/htslib-v1.10.2+1/htslib.v1.10.2.x86_64-linux-musl.tar.gz"

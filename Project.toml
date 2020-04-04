@@ -1,6 +1,6 @@
 name = "htslib_jll"
 uuid = "f06fe41e-9474-5571-8c61-5634d2b2700c"
-version = "1.10.2+0"
+version = "1.10.2+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
