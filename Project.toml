@@ -1,10 +1,9 @@
 name = "htslib_jll"
 uuid = "f06fe41e-9474-5571-8c61-5634d2b2700c"
-version = "1.14.0+0"
+version = "1.19.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
-Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 LibCURL_jll = "deac9b47-8bc7-5906-a0fe-35ac56dc84c0"
 OpenSSL_jll = "458c3c95-2e84-50aa-8efc-19380b2a3a95"
 Bzip2_jll = "6e34b625-4abd-537c-b88f-471c36dfa7a0"
@@ -16,4 +15,8 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
+LibCURL_jll = "7.73,8"
+OpenSSL_jll = "3.0.8"
 Bzip2_jll = "1.0.8"
+Libdl = "1"
+Artifacts = "1"
