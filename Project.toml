@@ -1,6 +1,6 @@
 name = "htslib_jll"
 uuid = "f06fe41e-9474-5571-8c61-5634d2b2700c"
-version = "1.19.1+0"
+version = "1.19.1+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -19,4 +19,5 @@ LibCURL_jll = "7.73,8"
 OpenSSL_jll = "3.0.8"
 Bzip2_jll = "1.0.8"
 Libdl = "1"
+XZ_jll = "5.2.5"
 Artifacts = "1"
